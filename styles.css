@@ -124,7 +124,7 @@
     h3.accent {font-family: "Griffy", system-ui; font-size: 1.2rem; margin: 0%; font-weight:bold; color:saddlebrown}
     
     p.b {font-family: "Sniglet", system-ui; font-size: 1rem; margin: 0%;}
-    p.bcenter {font-family: "Sniglet", system-ui; font-size: 1.5rem; margin: 0%; text-align: center;}
+    p.bcenter {font-family: "Sniglet", system-ui; font-size: 1.3rem; margin: 0%; text-align: center;}
     p.a {font-family: "Sniglet", system-ui; text-align: left; margin: 0%;}
     p.acenter {font-family: "Sniglet", system-ui; text-align: left; margin: 0%; text-align: center;}
     ul.a {font-family: "Sniglet", system-ui;}
@@ -406,6 +406,17 @@
         flex: none;
         }
     
+    .passion-project {
+    padding: 70px 25px 50px 25px;
+    background-image: url(passion-mobile.jpg);
+    background-size: cover;
+    background-color: white;
+    }
+
+        h2.subtcenter {
+        font-size: 2.1rem;
+        }
+
     .my-projects {
     grid-template-columns: 1fr;
     }
