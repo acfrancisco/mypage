@@ -44,7 +44,7 @@
     background-image: url(nav-box.jpg);
     background-size: cover;
     background-color: tan;
-    padding: 15px 0px;
+    padding: 15px 15px;
     border: 1.5px solid #000;
     border-radius: 5%;
     /* button spacing */
@@ -331,6 +331,8 @@
         }
 
     .nav-box {
+    padding: 10px 5px 10px 0px;
+    gap: 5px;
     background-image: url(nav-box-mobile.jpg);
     background-size: cover;
     min-width: 85lvw;
