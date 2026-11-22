@@ -340,7 +340,7 @@
     }
 
         .nav-box .btn {
-        padding: 8px 25px 8px 5px;
+        padding: 5px 10px 5px 5px;
         }
 
     /* moves lace to the bottom border */
@@ -383,8 +383,9 @@
         }
 
         .header-gif {
-        width: 65px;
-        height: auto;
+        padding-top: 20%;
+        width: auto;
+        height: 65px;
         flex-shrink: 0;
         }
 
