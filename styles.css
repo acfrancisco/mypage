@@ -306,7 +306,7 @@
     }
 
 /* 📱MOBILE SIDEBAR */
-    @media (max-width: 768px) {
+    @media (max-width: 600px) {
     .layout {
     display: flex;
     flex-direction: column; /* moves nav bar on top */
